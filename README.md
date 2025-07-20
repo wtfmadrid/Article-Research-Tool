@@ -6,6 +6,8 @@ The Article Research Tool is a powerful Streamlit-based application that allows 
 
 💡 Note: ChatGPT and most LLMs currently cannot browse or process URLs directly. This tool bridges that gap by scraping, embedding, and enabling natural language queries over web content — all in one streamlined workflow.
 
+Demo Run Overview: https://drive.google.com/file/d/1_4Yg1JufWzrzGIYY8Ok4a7KNI6lS7XGr/view?usp=sharing 
+
 ## 🔧 Technologies Used
 
 Python -	Core programming language
